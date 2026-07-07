@@ -2,8 +2,10 @@
 
 ### Tools List
 - All versions
-  * LinqPad7  
-  * LinqPad8  
+  * LinqPad 7-9    
+    在如图所示处右键，输入任意激活码即可。  
+    <img width="397" height="274" alt="image" src="https://github.com/user-attachments/assets/ead9b13a-353c-4715-a754-d6f8db86c7eb" />
+  
   
 + Specify version
   - SpreadJS
